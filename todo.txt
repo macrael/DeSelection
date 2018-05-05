@@ -1,0 +1,4 @@
+DeSelection
+x when you option click on a piece of selection, it dissappearss
+* better name for action?
+* figure out how to make it work with cmd-click, since that's what you make new multiple selections with.
