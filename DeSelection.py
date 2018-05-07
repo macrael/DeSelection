@@ -10,7 +10,6 @@ class DeleteSelectionCommand(sublime_plugin.TextCommand):
         cursor_point = self.view.window_to_text(cursor_vector)
 
         cursor_region = sublime.Region(cursor_point, cursor_point)
-        regions_to_remove = []
 
         didSubtract = False
         for selected_region in self.view.selection:
@@ -25,4 +24,3 @@ class DeleteSelectionCommand(sublime_plugin.TextCommand):
 
     def want_event(self):
         return True
-

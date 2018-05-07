@@ -3,3 +3,4 @@ x when you option click on a piece of selection, it dissappearss
 x figure out how to make it work with cmd-click, since that's what you make new multiple selections with.
 * better name for action?
 * figure out why it's crashing PathWhatever
+* Submit to Package Control
