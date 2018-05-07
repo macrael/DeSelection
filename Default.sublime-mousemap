@@ -2,7 +2,7 @@
   {
     "button": "button1",
     "count": 1,
-    "modifiers": ["option"],
+    "modifiers": ["super"],
     "press_command": "delete_selection"
   },
 ]
